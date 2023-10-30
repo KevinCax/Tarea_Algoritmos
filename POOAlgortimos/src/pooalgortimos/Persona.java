@@ -92,23 +92,23 @@ public class Persona {
     }
 
     void come() {
-        throw new UnsupportedOperationException("Anda comiendo"); 
+        System.out.println("Anda Comiendo");
     }
 
     void bebe() {
-        throw new UnsupportedOperationException("Anda Bebiendo"); 
+       System.out.println("Anda Bebiendo");
     }
 
     void camina() {
-        throw new UnsupportedOperationException("Anda Caminando");
+        System.out.println("Anda Caminando");
     }
 
     void duerme() {
-        throw new UnsupportedOperationException("Anda Durmiendo"); 
+        System.out.println("Anda Duermiendo");
     }
 
     void trabaja() {
-        throw new UnsupportedOperationException("Anda Trabajando"); 
+       System.out.println("Anda Trabajando");
     }
 
     /**

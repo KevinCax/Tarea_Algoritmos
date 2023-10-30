@@ -15,8 +15,7 @@ public class POOAlgortimos extends Persona {
         L.bebe();
         L.camina();
         L.duerme();
-        L.trabaja();
-        
+        L.trabaja();       
        
         Marta M = new Marta();
         M.come();
